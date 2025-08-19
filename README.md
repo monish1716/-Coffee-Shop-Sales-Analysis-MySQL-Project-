@@ -21,6 +21,8 @@ Includes: problem statement, SQL analysis, and interactive Power BI dashboard.
 - `Coffee Shop Dashboard.pbix` → Power BI dashboard  
 - `Coffee Shop Problem.pptx` → Problem statement (requirements)
 
+---
+
 ###  Extras
 - `extras/CoffeeShopSales.xlsx` → Optional Excel version (formatted/pivots)
 

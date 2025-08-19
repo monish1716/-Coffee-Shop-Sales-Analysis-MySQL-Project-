@@ -8,6 +8,11 @@
 
 ---
 
+## 📊 Dashboard Preview
+![Dashboard Screenshot](images/dashboard-preview.png)
+
+---
+
 ##  Overview
 An end-to-end analytics project analyzing a coffee shop chain's sales trends using a dataset of over **140,000 rows**.  
 Includes: problem statement, SQL analysis, and interactive Power BI dashboard.

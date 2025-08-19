@@ -9,7 +9,7 @@
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](images/coffee shop sales preview.png)
+![Dashboard Screenshot](images/coffee-shop-sales-preview.png)
 
 ---
 

@@ -23,7 +23,12 @@ It includes:
 - `Coffee Shop Sales.csv` → Dataset (~140k+ rows)  
 - `MY SQL Queries.docx` → Query documentation + explanations  
 - `Coffee Shop Dashboard.pbix` → Interactive Power BI dashboard  
-- `Coffee Shop Problem.pptx` → Problem statement (business requirements)  
+- `Coffee Shop Problem.pptx` → Problem statement (business requirements)
+
+---
+
+### 📦 Extras
+- `extras/CoffeeShopSales.xlsx` → Excel version of dataset (optional, includes formatting/pivots)
 
 ---
 

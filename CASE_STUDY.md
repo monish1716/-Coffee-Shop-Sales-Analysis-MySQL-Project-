@@ -16,13 +16,13 @@ The coffee shop struggled to understand sales across time, products, and locatio
 ##  Visuals
 
 **1. KPI Overview**  
-![KPI Dashboard](visuals/kpi_dashboard.png)
+![KPI Dashboard](images/kpi_dashboard.png)
 
 **2. Sales by Hour & Day/Weekend**  
-![Time Trends](visuals/time_trends.png)
+![Time Trends](images/time_trends.png)
 
 **3. Top Products & Locations**  
-![Product & Location Analysis](visuals/product_location.png)
+![Product & Location Analysis](images/product_location.png)
 
 ##  Key Insights
 - Peak sales occur between X–Y hr; weekends outpace weekdays by Z%.

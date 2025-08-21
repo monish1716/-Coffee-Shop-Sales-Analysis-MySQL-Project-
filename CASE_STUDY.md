@@ -33,6 +33,12 @@ Compares revenue across different coffee shop locations.
 Useful for business strategy and resource allocation.
 ![Product & Location Analysis](images/product_location.png)
 
+**4. Top 10 Best-Selling Products
+A bar chart ranking the top 10 products by total sales. This visualization highlights customer favorites and helps identify which items drive the highest revenue.
+
+![Top 10 Best-Selling Products](visual/top_10_products.png)
+
+
 ## 🔑 Key Insights
 - Peak sales occur between X–Y hr; weekends outpace weekdays by Z%.
 - Top product categories: A, B, C — with A driving Q% of total revenue.

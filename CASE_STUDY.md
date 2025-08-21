@@ -19,6 +19,8 @@ The coffee shop struggled to understand sales across time, products, and locatio
 ![KPI Dashboard](images/kpi_dashboard.png)
 
 **2. Sales by Hour & Day/Weekend**  
+Analyzes customer activity across weekdays and hours.
+Helps identify the busiest time slots.
 ![Time Trends](images/time_trends.png)
 
 **3. Top Products & Locations**  

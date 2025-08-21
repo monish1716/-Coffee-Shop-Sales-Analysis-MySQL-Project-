@@ -1,4 +1,4 @@
-# ​ Coffee Shop Sales Analysis (MySQL + Power BI Project)
+# ​ ☕Coffee Shop Sales Analysis (MySQL + Power BI Project)
 
 [![MySQL Badge](https://img.shields.io/badge/Database-MySQL-blue)](https://www.mysql.com/)  
 ![SQL Badge](https://img.shields.io/badge/Language-SQL-green)  
@@ -47,6 +47,12 @@ Includes: problem statement, SQL analysis, and interactive Power BI dashboard.
 - Calculate KPIs: total sales, orders, quantity  
 - Analyze MoM growth  
 - Explore trends by hour, day vs. weekend, location, product category, top products
+
+---
+
+
+##  ​ Detailed Case Study
+For the full structured case study → [View Here](CASE_STUDY.md)
 
 ---
 

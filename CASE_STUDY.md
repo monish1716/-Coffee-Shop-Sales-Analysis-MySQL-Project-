@@ -16,14 +16,21 @@ The coffee shop struggled to understand sales across time, products, and locatio
 ##  Visuals
 
 **1. KPI Overview**  
+Shows total sales, transactions, and quantity trends.
+
+Provides an at-a-glance summary of business performance.
 ![KPI Dashboard](images/kpi_dashboard.png)
 
 **2. Sales by Hour & Day/Weekend**  
 Analyzes customer activity across weekdays and hours.
+
 Helps identify the busiest time slots.
 ![Time Trends](images/time_trends.png)
 
 **3. Top Products & Locations**  
+Compares revenue across different coffee shop locations.
+
+Useful for business strategy and resource allocation.
 ![Product & Location Analysis](images/product_location.png)
 
 ##  Key Insights

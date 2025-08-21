@@ -13,13 +13,13 @@
 
 ---
 
-##  Overview
+## 📌 Overview
 An end-to-end analytics project analyzing a coffee shop chain's sales trends using a dataset of over **140,000 rows**.  
 Includes: problem statement, SQL analysis, and interactive Power BI dashboard.
 
 ---
 
-##  Project Files
+## 📂 Project Files
 - `coffee shop query.sql` → SQL queries  
 - `Coffee Shop Sales.csv` → Dataset (~140k+ rows)  
 - `MY SQL Queries.docx` → Query docs  
@@ -28,12 +28,12 @@ Includes: problem statement, SQL analysis, and interactive Power BI dashboard.
 
 ---
 
-###  Extras
+### ➕ Extras
 - `extras/CoffeeShopSales.xlsx` → Optional Excel version (formatted/pivots)
 
 ---
 
-##  How to Run
+## 🚀 How to Run
 1. Review the business problem (`Coffee Shop Problem.pptx`)  
 2. Load `Coffee Shop Sales.csv` into MySQL  
 3. Run SQL queries from `coffee shop query.sql`  
@@ -42,7 +42,7 @@ Includes: problem statement, SQL analysis, and interactive Power BI dashboard.
 
 ---
 
-##  Business Goals
+## 🎯 Business Goals
 - Define the business problem
 - Calculate KPIs: total sales, orders, quantity  
 - Analyze MoM growth  
@@ -51,17 +51,17 @@ Includes: problem statement, SQL analysis, and interactive Power BI dashboard.
 ---
 
 
-##  ​ Detailed Case Study
+## 📄​ Detailed Case Study
 For the full structured case study → [View Here](CASE_STUDY.md)
 
 ---
 
-##  Tech Stack
+## ⚙️ Tech Stack
 - MySQL, Power BI, PowerPoint, large CSV (~140k+ rows), detailed documentation
 
 ---
 
-##  Key Insights
+## 📊 Key Insights
 - Clear problem framing  
 - Handled high-volume data effectively  
 - Identified key patterns (weekday/weekend, top items, peak hours)  

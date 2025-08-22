@@ -1,4 +1,4 @@
-#  Coffee Shop Sales Analysis – Detailed Case Study
+#  ☕ Coffee Shop Sales Analysis – Detailed Case Study
 
 ## 🔎 Problem
 The coffee shop struggled to understand sales across time, products, and locations. Goals: identify top items, pinpoint peak days/hours, and inform targeted operational decisions.
